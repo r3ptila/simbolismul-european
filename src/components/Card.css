@@ -1,0 +1,26 @@
+.card-item {
+    background-color: #1F2544;
+    margin: 10px;
+    border: 1px solid #EEEEEE;
+    border-radius: 10px;
+}
+
+.card-item-img {
+    border-radius: 10px;
+}
+
+.card-item-link {
+    text-decoration: none;
+}
+
+.card-item-text {
+    padding-left: 12px;
+    padding-bottom: 12px;
+    color: #EEEEEE;
+    font-size: 20px;
+}
+
+.card-item-text:hover {
+    color: #00ADB5;
+    transition: 0.3s ease-in-out;
+}
