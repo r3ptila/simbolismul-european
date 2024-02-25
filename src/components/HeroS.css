@@ -1,6 +1,7 @@
 .body-container {
     background: url('../../public/img/bg.jpg') center center/cover no-repeat;
-    height: 91.5vh;
+    background-color: #0d1217;
+    height: 100vh;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -9,7 +10,6 @@
     box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.3);
     object-fit: contain;
     text-align: center;
-    overflow: hidden;
 }
 
 .body-container > h1 {

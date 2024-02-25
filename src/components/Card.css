@@ -14,10 +14,11 @@
 }
 
 .card-item-text {
+    max-width: 220px;
     padding-left: 12px;
     padding-bottom: 12px;
     color: #EEEEEE;
-    font-size: 20px;
+    font-size: 18px;
 }
 
 .card-item-text:hover {

@@ -30,8 +30,8 @@ export default function Navbar() {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/Teste' className='nav-links' onClick={closeMobileMenu}>
-                Teste
+              <Link to='/Test' className='nav-links' onClick={closeMobileMenu}>
+                Test
               </Link>
             </li>
           </ul>

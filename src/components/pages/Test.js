@@ -1,10 +1,11 @@
 import React from 'react'
-import '../../App.css'
+import '../Test.css'
 
-export default function Teste() {
+export default function Test() {
   return (
     <div className='container'>
 
     </div>
   )
 }
+

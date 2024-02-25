@@ -9,7 +9,7 @@ export default function HeroS() {
         <p>Învață despre simbolismul european cu ajutorul lecțiilor pregătite pentru tine!</p>
         <div className='body-btns'>
             <Button className='btn' buttonStyle='btn--outline' buttonSize='btn--large' to='/Lectii'>ÎNCEPE</Button>
-            <Button className='btn' buttonStyle='btn--outline' buttonSize='btn--large' to='/Teste'>TESTEAZĂ-ȚI CUNOȘTINȚELE</Button>
+            <Button className='btn' buttonStyle='btn--outline' buttonSize='btn--large' to='/Test'>TESTEAZĂ-ȚI CUNOȘTINȚELE</Button>
         </div>
     </div>
   )
