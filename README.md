@@ -1,5 +1,5 @@
-# Website creat pentru studiul de caz "Simbolismul europpean"
+# Website creat pentru studiul de caz "Simbolismul european"
 
 # Creat folosing React
 
-# simeu.vercel.app
+## simeu.vercel.app
