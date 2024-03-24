@@ -13,7 +13,7 @@ export default function Lectii() {
         <Card to="./lectia3" src="img/steph.jpg" text="L4. Reprezentanți" alt="Reprezentanti" />
         <Card to="./lectia4" src="img/sro.jpg" text="L5. Simbolismul românesc" alt="Rom" />
         <Card to="./lectia5" src="img/bacovia.jpg" text="L6. Reprezentanți" alt="Rom" />
-        <Card to="./lectia6" src="img/plumb.jpg" text="L7 Plumb - analiză" alt="plumb" />
+        <Card to="./lectia6" src="img/plumb.jpg" text="L7. Plumb - analiză" alt="plumb" />
       </ul>
     </div>
   )
