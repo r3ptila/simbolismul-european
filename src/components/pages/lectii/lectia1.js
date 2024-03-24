@@ -1,6 +1,7 @@
 import React from 'react'
 import '../../../App.css'
 import './css/lectie.css'
+import { Button } from '../../Button'
 
 export default function Lectia1() {
   return (
@@ -22,16 +23,16 @@ export default function Lectia1() {
             pe Paul Verlaine și Arthur Rimbaud; Școala instrumentalistă, susținută de Rene Ghil.
           </p>
           <p className='text-lectie'>
-          Deși simbolismul francez a durat foarte puțin, curentul a reușit să formeze poezia modernă, 
-          negând gândirea științifică, raționalistă. Dintre temele simboliste se remarcă: impalpabilul, 
-          angoasele, identitare ale Eului, imaginea femeii, arta pentru artă, decadența.
-          </p>
-          <p className='text-lectie'>
-          Termenul de „simbolism” provine din cuvântul grecesc „symbolon ”, intrat în limbă prin filieră franceză. 
-          O dată cu evoluţia limbajului, simbolul a devenit tot mai complex, folosindu-se în toate domeniile culturii, 
-          iar în literatură este un mod de constituire a imaginii artistice.
+            Termenul de „simbolism” provine din cuvantul grecesc „symbolon”, termen intrat in limba prin filiera franceza. Simbolul este un 
+            substituent, el inlocuieste expresia directa, vorbirea nationala, mediind cunoasterea pe calea analogiei si a conventiei. O data cu 
+            evolutia limbajului, simbolul a devenit tot mai complex, folosindu-se in toate domeniile culturii, iar in literatura este un mod 
+            de constituire a imaginii artistice. Simbolul literar concentreaza in imagini elemente ale realului cu un grad mai mic sau mai 
+            mare de generalizare. Il vom descoperi in mituri, legende sau folclor. 
           </p>
         </div>
+        <div className='navigation'>
+            <Button buttonStyle='btn--primary' buttonSize='btn--large' to='/Lectii/Lectia11'>&#8680;</Button>
+          </div>
       </div>
     </div>
   )

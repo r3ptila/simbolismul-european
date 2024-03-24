@@ -4,8 +4,9 @@ import { BrowserRouter , Routes, Route } from 'react-router-dom';
 import './App.css';
 import Home from './components/pages/Home'
 import Lectii from './components/pages/Lectii'
-import Test from './components/pages/Test'
 import Lectia1 from './components/pages/lectii/lectia1'
+import Lectia11 from './components/pages/lectii/lectia11';
+import Lectia12 from './components/pages/lectii/lectia12';
 import Lectia2 from './components/pages/lectii/lectia2'
 import Lectia3 from './components/pages/lectii/lectia3'
 import Lectia32 from './components/pages/lectii/lectia32'
@@ -25,6 +26,8 @@ export default function App() {
           <Route exact path='/' element={<Home/>} />
           <Route path='/Lectii' element={<Lectii/>} />
           <Route path='/Lectii/Lectia1' element={<Lectia1/>} />
+          <Route path='/Lectii/Lectia11' element={<Lectia11/>} />
+          <Route path='/Lectii/Lectia12' element={<Lectia12/>} />
           <Route path='/Lectii/Lectia2' element={<Lectia2/>} />
           <Route path='/Lectii/Lectia3' element={<Lectia3/>} />
           <Route path='/Lectii/Lectia32' element={<Lectia32/>} />
@@ -34,7 +37,6 @@ export default function App() {
           <Route path='/Lectii/Lectia52' element={<Lectia52/>} />
           <Route path='/Lectii/Lectia53' element={<Lectia53/>} />
           <Route path='/Lectii/Lectia6' element={<Lectia6/>} />
-          <Route path='/Test' element={<Test/>} />
         </Routes>
       </BrowserRouter>
     </>

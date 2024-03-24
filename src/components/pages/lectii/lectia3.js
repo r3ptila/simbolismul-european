@@ -13,11 +13,14 @@ export default function Lectia3() {
                 <td>
                   <h3 className='span-color'>Paul Verlaine (1844 - 1896)</h3><br />
                   <p className='text-lectie'>
-                    Este privit de simboliștii francezi ca șef al curentului. A dus o viață de boem, de „poet blestemat”, ce contrastează 
-                    în planul creației cu aspirația spre puritate și candoare. Versurile de început („Poeme saturniene”, 1866), 
-                    cu reminiscențe din parnasieni și din Baudelaire, afirmă tonul său inegalabil prin viziunea dramatică asupra 
-                    lumii, prin înclinația către melancolie, prin căutarea armoniilor. Verlaine cultiva o lirică a sentimentelor 
-                    intime, a variatelor stări sufletești, într-o atmosferă crepusculară și vagă.
+                    Paul Verlaine este considerat de către simboliștii francezi ca fiind șeful curentului simbolist. El a trăit o viață de 
+                    boem, fiind adesea descris ca un "poet blestemat", contrastând astfel în planul creației cu aspirația sa spre puritate 
+                    și candoare. Versurile sale de început, din volumul "Poeme saturniene" din 1866, cu influențe din parnasieni și din 
+                    Baudelaire, exprimă tonul său inconfundabil prin viziunea dramatică asupra lumii, prin melancolie și căutarea armoniilor. 
+                    Verlaine cultivă o lirică a sentimentelor intime și a variatelor stări sufletești într-o atmosferă crepusculară și vagă. 
+                    Poeziile sale reușesc să transmită o profundă introspecție și să provoace emoții complexe, fiind adesea descrise ca fiind 
+                    delicate și pline de subtilitate. Această abordare a făcut din Verlaine unul dintre cei mai influenți poeți ai secolului 
+                    al XIX-lea și un pilon al mișcării simboliste.
                   </p>
                 </td>
                 <td>

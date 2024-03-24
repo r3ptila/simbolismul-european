@@ -30,7 +30,7 @@ export default function Navbar() {
               </Link>
             </li>
             <li className='nav-item'>
-              <Link to='/Test' className='nav-links' onClick={closeMobileMenu}>
+              <Link to='https://quizizz.com/admin/quiz/65fff876ad61fc6b852aa960?source=quiz_share' target='_blank' className='nav-links' onClick={closeMobileMenu}>
                 Test
               </Link>
             </li>
