@@ -12,7 +12,6 @@ export default function Lectia4() {
             literare de seamă la sfârșitul secolului al XIX-lea. Unul dintre principalii promotori ai acestei mișcări în România a fost Alexandru 
             Macedonski, al cărui impact a fost profund atât în poezie, cât și în texte teoretice. Prin poemele sale și prin scrierile sale 
             teoretice, Macedonski a deschis calea către o nouă estetică literară, care îmbrățișa simbolismul ca modalitate de exprimare artistică.
-            <br />Cele patru etape ale simbolismului românesc sunt:
           </p>
           <p className='text-lectie'>
             Alți reprezentanți importanți ai simbolismului românesc includ nume precum Ștefan Petică, Ion Minulescu și, în special, 
@@ -27,6 +26,7 @@ export default function Lectia4() {
             secolului”, merite de pionier al simbolismului pe plan european. Acest gest subliniază importanța pe care o acorda Macedonski noii 
             direcții literare și artistice pe care o promova și contribuția sa semnificativă la evoluția simbolismului nu doar în cadrul 
             literaturii române, ci și la nivel european.
+            <br />Cele patru etape ale simbolismului românesc sunt:
           </p>
           <ul>
             <li>Etapa căutărilor: Al. Macedonski, Tudor Arghezi</li>
