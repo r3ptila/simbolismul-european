@@ -1,6 +1,8 @@
 import React from 'react'
 import '../../../App.css'
 import './css/lectie.css'
+import ReactAudioPlayer from 'react-audio-player'
+
 export default function Lectia6() {
   return (
     <div className='container'>
@@ -37,18 +39,24 @@ export default function Lectia6() {
                 <h3 className='span-color'>Plumb - George Bacovia</h3><br />
                   <p className='poezie'>
                     Dormeau adânc sicriele de plumb,<br />
-                    Şi flori de plumb şi funerar vestmânt-<br />
-                    Stam singur în cavou... şi era vânt...<br />
+                    Şi flori de plumb şi funerar veștmânt-<br />
+                    Stăm singur în cavou... şi era vânt...<br />
                     Şi scârţâiau coroanele de plumb.<br /><br />
                     Dormea întors amorul meu de plumb<br />
                     Pe flori de plumb... şi-am început să-l strig-<br />
-                    Stam singur lângă mort... şi era frig...<br />
+                    Stăm singur lângă mort... şi era frig...<br />
                     Şi-i atârnau aripile de plumb.<br />
                   </p>
                 </td>
               </tr>
             </table>
           </p>
+        </div>
+        <div className='navigation'>
+          <ReactAudioPlayer 
+            src='/audio/plumb.mp3'
+            controls
+          />
         </div>
       </div>
     </div>

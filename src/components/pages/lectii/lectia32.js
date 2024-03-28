@@ -20,9 +20,9 @@ export default function Lectia32() {
                     cum ar fi: cubismul, futurismul, dadaismul, suprarealismul.
                   </p>
                   <p className='text-lectie'>
-                    Unii consideră ca Mallarmé este unul dintre cei mai dificili poeți de tradus în alte limbi. Dificultatea se datorează 
-                    complexității textului, natura multistratificată, dar rolul cel mai important îl are muzicalitatea cuvintelor. 
-                    Când poeziile sunt recitate în limba franceză, poezia admite sensuri care nu sunt evidente la lecturare. Aspectul 
+                    Unii consideră că Mallarmé are unele dintre cele mai dificile poezii de tradus în alte limbi. Dificultatea se datorează 
+                    complexității textului, naturii multistratificate, dar cel mai important muzicalității cuvintelor. 
+                    Când sunt recitate în limba franceză, poeziile admit sensuri care nu sunt evidente la lecturare. Aspectul 
                     poeziei sale este un subiect de analiză muzicală, poezia neputând fi tradusă fără a-i schimba sensul.
                   </p>
                 </td>

@@ -23,11 +23,11 @@ export default function Lectia1() {
             pe Paul Verlaine și Arthur Rimbaud; Școala instrumentalistă, susținută de Rene Ghil.
           </p>
           <p className='text-lectie'>
-            Termenul de „simbolism” provine din cuvantul grecesc „symbolon”, termen intrat in limba prin filiera franceza. Simbolul este un 
-            substituent, el inlocuieste expresia directa, vorbirea nationala, mediind cunoasterea pe calea analogiei si a conventiei. O data cu 
-            evolutia limbajului, simbolul a devenit tot mai complex, folosindu-se in toate domeniile culturii, iar in literatura este un mod 
-            de constituire a imaginii artistice. Simbolul literar concentreaza in imagini elemente ale realului cu un grad mai mic sau mai 
-            mare de generalizare. Il vom descoperi in mituri, legende sau folclor. 
+            Termenul de „simbolism” provine din cuvântul grecesc „symbolon”, termen intrat în limbă prin filiera franceză. Simbolul este un 
+            substituent, el înlocuiește expresia directă, vorbirea națională, mediind cunoașterea pe calea analogiei și a convenției. O data cu 
+            evoluția limbajului, simbolul a devenit tot mai complex, folosindu-se în toate domeniile culturii, iar în literatură este un mod 
+            de constituire a imaginii artistice. Simbolul literar concentrează în imagini elemente ale realului cu un grad mai mic sau mai 
+            mare de generalizare. Îl vom descoperi în mituri, legende sau folclor. 
           </p>
         </div>
         <div className='navigation'>

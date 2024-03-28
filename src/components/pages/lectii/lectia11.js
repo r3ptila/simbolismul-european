@@ -9,7 +9,7 @@ export default function Lectia11() {
       <div className='text-container'>
         <div className='text'>
           <p className='text-lectie'>
-            Numele curentului a fost dat de poetul Jean Moreas, care în 1886, a publicat un celebru articol-manifest, ”Le symbolisme”, în revista "Le figaro". În același 
+            Numele curentului a fost dat de poetul Jean Moreas, care în 1886, a publicat un celebru articol-manifest, ”Le symbolisme”, în revista "Le Figaro". În același 
             an s-a constituit gruparea care s-a autointitulat „simbolistă” și în fruntea căreia s-a găsit poetul Stephane Mallarme. Tot atunci,
             Rene Ghil înfiinteaza școala „simbolist-armonistă”, devenită apoi „filozofico-instrumentistă” .Alți poeți de orientare antiparnasiană 
             îl considerau șef de școală pe Paul Verlaine; ei și-au luat, în semn de sfidare, numele de „decadenți”. Reprezentanți de frunte ai 

@@ -1,7 +1,6 @@
 import React from 'react'
 import '../../../App.css'
 import './css/lectie.css'
-import { Button } from '../../Button'
 
 export default function Lectia12() {
   return (
