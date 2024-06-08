@@ -2,4 +2,3 @@
 
 # Creat folosing React
 
-## simeu.vercel.app
