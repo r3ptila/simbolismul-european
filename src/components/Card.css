@@ -29,16 +29,24 @@
     transition: 0.3s ease-in-out;
 }
 
-@media screen and (max-width: 600px) {
-    .card-item {
-        margin: 2px;
-    }
+@media screen and (max-width: 1800px) {
     .card-item-img {
-        height: 95px;
-        width: 175px;
+        height: 200px;
+        width: 340px;
     }
-    .card-item-text {
-        font-size: 14px;
+}
+
+@media screen and (max-width: 1500px) {
+    .card-item-img {
+        height: 160px;
+        width: 280px;
+    }
+}
+
+@media screen and (max-width: 985px) {
+    .card-item-img {
+        height: 140px;
+        width: 220px;
     }
 }
 

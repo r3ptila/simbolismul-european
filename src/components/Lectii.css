@@ -18,9 +18,3 @@
 .cards {
     list-style-type: none;
 }
-
-@media screen and (max-width: 600px) {
-    .cards {
-        justify-content: center;
-    }
-}
